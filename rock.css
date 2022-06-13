@@ -124,3 +124,21 @@ div.op img:hover {
     border: 3px solid red;
     border-radius: 30px;
 }
+
+footer{
+    margin:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:15px;
+}
+
+footer h4 a{
+    text-decoration: none;
+    color:olivedrab;
+}
+
+footer h4 a:hover{
+    color:blueviolet;
+}
